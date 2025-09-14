@@ -1,7 +1,7 @@
 
 ### 🔹 Project Structure
 
-* Keep a **consistent folder structure** (`data/`, `notebooks/`, `src/`, `reports/`).
+* Keep  **consistent folder structure** (`data/`, `notebooks/`, `src/`, `reports/`).
 * Separate **exploratory code** (notebooks) from **production code** (`src/`).
 * Use `.gitignore` to avoid committing large datasets or temp files.
 
