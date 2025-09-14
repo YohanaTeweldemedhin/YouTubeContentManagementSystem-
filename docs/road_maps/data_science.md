@@ -25,4 +25,19 @@
   * this is the certification you should start in November 2025 and take the exam in January 2026.
 
 
+## Timeframe
+
+* Sep 2025 to June 2026 
+ - learning period
+ - certification
+ - projects 
+ - prepare ur cv
+
+* June 2026 to Sep 2026
+ - Application period
+ - certifcations
+
+
+ 
+
 
